@@ -11,6 +11,11 @@ The directory or GitHub repo is often named `chord-stem-lab`; that is only a sho
 3. **Run chord detectors** on each mix (configurable).
 4. **Write** `report.md`, `chords.full.json`, and `chords.first.json` under `out/<input-stem>/`.
 
+## Not so vibed conclusion
+Ran this on a dozen songs. Model ismir2019 gives the best results. Bass is not 
+very important for chord detection. Vocals and "other" are, but full mix is 
+fine, drums do not interfere with detection.
+
 ## Requirements
 
 - **Docker** with GPU support (`nvidia-container-toolkit` and `docker run --gpus all`) for the provided `run.sh` path.

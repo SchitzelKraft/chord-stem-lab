@@ -1,42 +1,53 @@
 # Chord detection A/B — `Example.mp3`
 
-_Generated 2026-04-18T19:15:48 — first 8 chord changes per mix._
+_Generated 2026-04-18T19:34:04 — first 3 chord changes per mix._
+
+**Expected sequence** (3): `D` `Em` `A`
 
 ## Model: `chordino`
 
-| # | original | bass+other | bass+vocals | vocals+other | bass+vocals+other |
-|---|---|---|---|---|---|
-| 1 | `D` | `D` | `D7` | `D` | `D` |
-| 2 | `Em7` | `G` | `E` | `Em7` | `G` |
-| 3 | `D6` | `A` | `A7` | `Bm` | `D` |
-| 4 | `Em7` | `Em7` | `Bm7` | `Em` | `Em7` |
-| 5 | `Bm` | `Bm` | `G6` | `G` | `Bm` |
-| 6 | `G6` | `G` | `C#` | `D` | `G6` |
-| 7 | `D` | `A` | `D` | `A` | `D` |
-| 8 | `A` | `Em7` | `E7` | `Em7` | `A` |
+| # | expected | original | bass+other | bass+vocals | vocals+other | bass+vocals+other |
+|---|---|---|---|---|---|---|
+| 1 | `D` | `D` | `D` | `D7` | `D` | `D` |
+| 2 | `Em` | `Em7` | `G` | `E` | `Em7` | `G` |
+| 3 | `A` | `D6` | `A` | `A7` | `Bm` | `D` |
+
+**Match vs expected (exact / same-root):**
+
+- `original`: 1/3 exact, 2/3 same-root
+- `bass+other`: 2/3 exact, 2/3 same-root  ← best
+- `bass+vocals`: 0/3 exact, 3/3 same-root
+- `vocals+other`: 1/3 exact, 2/3 same-root
+- `bass+vocals+other`: 1/3 exact, 1/3 same-root
 
 ## Model: `madmom`
 
-| # | original | bass+other | bass+vocals | vocals+other | bass+vocals+other |
-|---|---|---|---|---|---|
-| 1 | `D` | `D` | `Dm` | `D` | `D` |
-| 2 | `Em` | `Em` | `A` | `G` | `G` |
-| 3 | `A` | `A` | `Em` | `A` | `A` |
-| 4 | `Em` | `Em` | `Bm` | `Em` | `Em` |
-| 5 | `Bm` | `Bm` | `E` | `Bm` | `Bm` |
-| 6 | `G` | `G` | `G` | `G` | `G` |
-| 7 | `A` | `A` | `A` | `A` | `A` |
-| 8 | `Em` | `Em` | `E` | `Em` | `Em` |
+| # | expected | original | bass+other | bass+vocals | vocals+other | bass+vocals+other |
+|---|---|---|---|---|---|---|
+| 1 | `D` | `D` | `D` | `Dm` | `D` | `D` |
+| 2 | `Em` | `Em` | `Em` | `A` | `G` | `G` |
+| 3 | `A` | `A` | `A` | `Em` | `A` | `A` |
+
+**Match vs expected (exact / same-root):**
+
+- `original`: 3/3 exact, 3/3 same-root  ← best
+- `bass+other`: 3/3 exact, 3/3 same-root  ← best
+- `bass+vocals`: 0/3 exact, 1/3 same-root
+- `vocals+other`: 2/3 exact, 2/3 same-root
+- `bass+vocals+other`: 2/3 exact, 2/3 same-root
 
 ## Model: `ismir2019`
 
-| # | original | bass+other | bass+vocals | vocals+other | bass+vocals+other |
-|---|---|---|---|---|---|
-| 1 | `D` | `D` | `E` | `D` | `D` |
-| 2 | `Em` | `Em` | `Bm` | `Em` | `Em` |
-| 3 | `A` | `A` | `G` | `A` | `A` |
-| 4 | `Em7` | `Em` | `A` | `Em7` | `Em7` |
-| 5 | `Bm` | `Bm` | `E` | `Bm` | `Bm` |
-| 6 | `G` | `G` | `Bm` | `G` | `G` |
-| 7 | `A` | `A` | `G` | `A` | `A` |
-| 8 | `Em7` | `Em` | `E` | `Em7` | `Em7` |
+| # | expected | original | bass+other | bass+vocals | vocals+other | bass+vocals+other |
+|---|---|---|---|---|---|---|
+| 1 | `D` | `D` | `D` | `E` | `D` | `D` |
+| 2 | `Em` | `Em` | `Em` | `Bm` | `Em` | `Em` |
+| 3 | `A` | `A` | `A` | `G` | `A` | `A` |
+
+**Match vs expected (exact / same-root):**
+
+- `original`: 3/3 exact, 3/3 same-root  ← best
+- `bass+other`: 3/3 exact, 3/3 same-root  ← best
+- `bass+vocals`: 0/3 exact, 0/3 same-root
+- `vocals+other`: 3/3 exact, 3/3 same-root  ← best
+- `bass+vocals+other`: 3/3 exact, 3/3 same-root  ← best
