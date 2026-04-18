@@ -2,6 +2,8 @@
 
 Compare automatic chord detection on the **original mix** versus **re-mixed stem combinations** from [Demucs](https://github.com/facebookresearch/demucs). Useful for A/B experiments: does removing drums (or other stems) change what Chordino, Madmom, or an ISMIR2019-style model hears in the opening bars?
 
+The directory or GitHub repo is often named `chord-stem-lab`; that is only a short label for “chord recognition + stem mixes + local experiments,” not a separate product.
+
 ## What it does
 
 1. **Separate** the track with Demucs (`htdemucs_ft` by default).
@@ -66,15 +68,3 @@ docker build -t chord-stem-lab:latest .
 ## License
 
 Third-party components (Demucs, chord extractors, Madmom, ISMIR2019 chord recognition, PyTorch) keep their respective licenses. Add a project license file if you intend to distribute this repository.
-# chord-stem-lab
-# chord-stem-lab
-# chord-stem-lab
-# chord-stem-lab
-# chord-stem-lab
-# chord-stem-lab
-# chord-stem-lab
-# chord-stem-lab
-# chord-stem-lab
-# chord-stem-lab
-# chord-stem-lab
-# chord-stem-lab

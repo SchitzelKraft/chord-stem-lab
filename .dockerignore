@@ -1,0 +1,7 @@
+audio/
+out/
+.git/
+.gitignore
+__pycache__/
+*.pyc
+.venv/
