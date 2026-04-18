@@ -67,3 +67,4 @@ docker build -t chord-stem-lab:latest .
 
 Third-party components (Demucs, chord extractors, Madmom, ISMIR2019 chord recognition, PyTorch) keep their respective licenses. Add a project license file if you intend to distribute this repository.
 # chord-stem-lab
+# chord-stem-lab
