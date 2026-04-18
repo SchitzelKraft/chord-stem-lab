@@ -1,0 +1,890 @@
+{
+  "chordino": {
+    "original": [
+      {
+        "time": 0.371519274,
+        "chord": "N"
+      },
+      {
+        "time": 0.464399092,
+        "chord": "D"
+      },
+      {
+        "time": 5.665668934,
+        "chord": "Em7"
+      },
+      {
+        "time": 7.801904761,
+        "chord": "D6"
+      },
+      {
+        "time": 9.752380952,
+        "chord": "Em7"
+      },
+      {
+        "time": 11.88861678,
+        "chord": "Bm"
+      },
+      {
+        "time": 13.18893424,
+        "chord": "G6"
+      },
+      {
+        "time": 16.161088435,
+        "chord": "D/A"
+      },
+      {
+        "time": 17.368526077,
+        "chord": "A"
+      },
+      {
+        "time": 18.390204081,
+        "chord": "Em7"
+      },
+      {
+        "time": 20.340680272,
+        "chord": "Bm"
+      },
+      {
+        "time": 21.640997732,
+        "chord": "G6"
+      },
+      {
+        "time": 28.978503401,
+        "chord": "Bm"
+      },
+      {
+        "time": 33.158095238,
+        "chord": "N"
+      }
+    ],
+    "bass+other": [
+      {
+        "time": 0.371519274,
+        "chord": "N"
+      },
+      {
+        "time": 0.464399092,
+        "chord": "D"
+      },
+      {
+        "time": 5.665668934,
+        "chord": "G"
+      },
+      {
+        "time": 7.709024943,
+        "chord": "A"
+      },
+      {
+        "time": 9.752380952,
+        "chord": "Em7"
+      },
+      {
+        "time": 11.88861678,
+        "chord": "Bm"
+      },
+      {
+        "time": 13.931972789,
+        "chord": "G"
+      },
+      {
+        "time": 16.161088435,
+        "chord": "A"
+      },
+      {
+        "time": 18.297324263,
+        "chord": "Em7"
+      },
+      {
+        "time": 20.340680272,
+        "chord": "Bm"
+      },
+      {
+        "time": 22.384036281,
+        "chord": "G"
+      },
+      {
+        "time": 24.334512471,
+        "chord": "Em7"
+      },
+      {
+        "time": 26.842267573,
+        "chord": "G"
+      },
+      {
+        "time": 28.885623582,
+        "chord": "Bm"
+      },
+      {
+        "time": 33.158095238,
+        "chord": "N"
+      }
+    ],
+    "bass+vocals": [
+      {
+        "time": 0.371519274,
+        "chord": "N"
+      },
+      {
+        "time": 0.464399092,
+        "chord": "D7"
+      },
+      {
+        "time": 5.294149659,
+        "chord": "E"
+      },
+      {
+        "time": 6.8731065749999996,
+        "chord": "A7"
+      },
+      {
+        "time": 8.54494331,
+        "chord": "Bm7"
+      },
+      {
+        "time": 13.18893424,
+        "chord": "G6"
+      },
+      {
+        "time": 15.696689341999999,
+        "chord": "C#"
+      },
+      {
+        "time": 16.346848072,
+        "chord": "D/A"
+      },
+      {
+        "time": 17.461405895,
+        "chord": "E7"
+      },
+      {
+        "time": 19.504761904,
+        "chord": "A/E"
+      },
+      {
+        "time": 20.340680272,
+        "chord": "Bm7"
+      },
+      {
+        "time": 21.548117913,
+        "chord": "G6"
+      },
+      {
+        "time": 24.42739229,
+        "chord": "Em"
+      },
+      {
+        "time": 27.120907029,
+        "chord": "G"
+      },
+      {
+        "time": 28.792743764,
+        "chord": "C#m7b5/B"
+      },
+      {
+        "time": 31.393378683999998,
+        "chord": "Bm"
+      },
+      {
+        "time": 33.158095238,
+        "chord": "N"
+      }
+    ],
+    "vocals+other": [
+      {
+        "time": 0.371519274,
+        "chord": "N"
+      },
+      {
+        "time": 0.464399092,
+        "chord": "D"
+      },
+      {
+        "time": 5.665668934,
+        "chord": "Em7"
+      },
+      {
+        "time": 11.981496598,
+        "chord": "Bm"
+      },
+      {
+        "time": 13.281814058,
+        "chord": "Em"
+      },
+      {
+        "time": 14.675011337,
+        "chord": "G"
+      },
+      {
+        "time": 16.068208616,
+        "chord": "D"
+      },
+      {
+        "time": 17.368526077,
+        "chord": "A"
+      },
+      {
+        "time": 18.390204081,
+        "chord": "Em7"
+      },
+      {
+        "time": 20.340680272,
+        "chord": "Bm"
+      },
+      {
+        "time": 21.640997732,
+        "chord": "G6"
+      },
+      {
+        "time": 27.213786848,
+        "chord": "G"
+      },
+      {
+        "time": 29.72154195,
+        "chord": "E6"
+      },
+      {
+        "time": 31.207619047,
+        "chord": "Bm"
+      },
+      {
+        "time": 33.158095238,
+        "chord": "N"
+      }
+    ],
+    "bass+vocals+other": [
+      {
+        "time": 0.371519274,
+        "chord": "N"
+      },
+      {
+        "time": 0.464399092,
+        "chord": "D"
+      },
+      {
+        "time": 5.665668934,
+        "chord": "G"
+      },
+      {
+        "time": 7.801904761,
+        "chord": "D/A"
+      },
+      {
+        "time": 9.752380952,
+        "chord": "Em7"
+      },
+      {
+        "time": 11.88861678,
+        "chord": "Bm"
+      },
+      {
+        "time": 13.281814058,
+        "chord": "G6"
+      },
+      {
+        "time": 16.161088435,
+        "chord": "D/A"
+      },
+      {
+        "time": 17.368526077,
+        "chord": "A"
+      },
+      {
+        "time": 18.390204081,
+        "chord": "Em7"
+      },
+      {
+        "time": 20.340680272,
+        "chord": "Bm"
+      },
+      {
+        "time": 21.640997732,
+        "chord": "G6"
+      },
+      {
+        "time": 24.42739229,
+        "chord": "Em7"
+      },
+      {
+        "time": 27.120907029,
+        "chord": "G"
+      },
+      {
+        "time": 28.885623582,
+        "chord": "Bm"
+      },
+      {
+        "time": 33.158095238,
+        "chord": "N"
+      }
+    ]
+  },
+  "madmom": {
+    "original": [
+      {
+        "time": 0.0,
+        "chord": "D:maj"
+      },
+      {
+        "time": 6.1000000000000005,
+        "chord": "E:min"
+      },
+      {
+        "time": 7.6000000000000005,
+        "chord": "A:maj"
+      },
+      {
+        "time": 9.8,
+        "chord": "E:min"
+      },
+      {
+        "time": 12.0,
+        "chord": "B:min"
+      },
+      {
+        "time": 14.100000000000001,
+        "chord": "G:maj"
+      },
+      {
+        "time": 16.2,
+        "chord": "A:maj"
+      },
+      {
+        "time": 18.400000000000002,
+        "chord": "E:min"
+      },
+      {
+        "time": 20.400000000000002,
+        "chord": "B:min"
+      },
+      {
+        "time": 22.5,
+        "chord": "G:maj"
+      },
+      {
+        "time": 24.6,
+        "chord": "E:maj"
+      },
+      {
+        "time": 26.700000000000003,
+        "chord": "G:maj"
+      },
+      {
+        "time": 29.200000000000003,
+        "chord": "B:min"
+      }
+    ],
+    "bass+other": [
+      {
+        "time": 0.0,
+        "chord": "D:maj"
+      },
+      {
+        "time": 6.0,
+        "chord": "E:min"
+      },
+      {
+        "time": 7.5,
+        "chord": "A:maj"
+      },
+      {
+        "time": 9.9,
+        "chord": "E:min"
+      },
+      {
+        "time": 12.0,
+        "chord": "B:min"
+      },
+      {
+        "time": 14.0,
+        "chord": "G:maj"
+      },
+      {
+        "time": 16.3,
+        "chord": "A:maj"
+      },
+      {
+        "time": 18.400000000000002,
+        "chord": "E:min"
+      },
+      {
+        "time": 20.5,
+        "chord": "B:min"
+      },
+      {
+        "time": 22.400000000000002,
+        "chord": "G:maj"
+      },
+      {
+        "time": 24.8,
+        "chord": "E:maj"
+      },
+      {
+        "time": 26.6,
+        "chord": "G:maj"
+      },
+      {
+        "time": 29.1,
+        "chord": "B:min"
+      }
+    ],
+    "bass+vocals": [
+      {
+        "time": 0.0,
+        "chord": "D:min"
+      },
+      {
+        "time": 5.4,
+        "chord": "N"
+      },
+      {
+        "time": 7.9,
+        "chord": "A:maj"
+      },
+      {
+        "time": 10.5,
+        "chord": "E:min"
+      },
+      {
+        "time": 11.700000000000001,
+        "chord": "B:min"
+      },
+      {
+        "time": 13.4,
+        "chord": "E:maj"
+      },
+      {
+        "time": 14.600000000000001,
+        "chord": "G:maj"
+      },
+      {
+        "time": 16.2,
+        "chord": "A:maj"
+      },
+      {
+        "time": 18.6,
+        "chord": "E:maj"
+      },
+      {
+        "time": 20.400000000000002,
+        "chord": "B:min"
+      },
+      {
+        "time": 21.8,
+        "chord": "A:maj"
+      },
+      {
+        "time": 23.1,
+        "chord": "G:maj"
+      },
+      {
+        "time": 24.5,
+        "chord": "E:maj"
+      },
+      {
+        "time": 26.8,
+        "chord": "G:maj"
+      },
+      {
+        "time": 28.8,
+        "chord": "B:maj"
+      },
+      {
+        "time": 30.0,
+        "chord": "F#:maj"
+      },
+      {
+        "time": 30.8,
+        "chord": "B:min"
+      }
+    ],
+    "vocals+other": [
+      {
+        "time": 0.0,
+        "chord": "D:maj"
+      },
+      {
+        "time": 6.0,
+        "chord": "G:maj"
+      },
+      {
+        "time": 7.5,
+        "chord": "A:maj"
+      },
+      {
+        "time": 9.8,
+        "chord": "E:min"
+      },
+      {
+        "time": 12.0,
+        "chord": "B:min"
+      },
+      {
+        "time": 14.0,
+        "chord": "G:maj"
+      },
+      {
+        "time": 16.3,
+        "chord": "A:maj"
+      },
+      {
+        "time": 18.5,
+        "chord": "E:min"
+      },
+      {
+        "time": 20.5,
+        "chord": "B:min"
+      },
+      {
+        "time": 22.400000000000002,
+        "chord": "G:maj"
+      },
+      {
+        "time": 24.8,
+        "chord": "E:maj"
+      },
+      {
+        "time": 26.700000000000003,
+        "chord": "G:maj"
+      },
+      {
+        "time": 29.3,
+        "chord": "B:min"
+      }
+    ],
+    "bass+vocals+other": [
+      {
+        "time": 0.0,
+        "chord": "D:maj"
+      },
+      {
+        "time": 6.0,
+        "chord": "G:maj"
+      },
+      {
+        "time": 7.5,
+        "chord": "A:maj"
+      },
+      {
+        "time": 9.8,
+        "chord": "E:min"
+      },
+      {
+        "time": 12.0,
+        "chord": "B:min"
+      },
+      {
+        "time": 14.100000000000001,
+        "chord": "G:maj"
+      },
+      {
+        "time": 16.3,
+        "chord": "A:maj"
+      },
+      {
+        "time": 18.5,
+        "chord": "E:min"
+      },
+      {
+        "time": 20.5,
+        "chord": "B:min"
+      },
+      {
+        "time": 22.400000000000002,
+        "chord": "G:maj"
+      },
+      {
+        "time": 24.700000000000003,
+        "chord": "E:maj"
+      },
+      {
+        "time": 26.700000000000003,
+        "chord": "G:maj"
+      },
+      {
+        "time": 29.1,
+        "chord": "B:min"
+      }
+    ]
+  },
+  "ismir2019": {
+    "original": [
+      {
+        "time": 0.0,
+        "chord": "N"
+      },
+      {
+        "time": 0.023219954648526078,
+        "chord": "D:maj"
+      },
+      {
+        "time": 5.688888888888889,
+        "chord": "E:min"
+      },
+      {
+        "time": 7.569705215419502,
+        "chord": "A:maj"
+      },
+      {
+        "time": 9.682721088435374,
+        "chord": "E:min7"
+      },
+      {
+        "time": 11.818956916099774,
+        "chord": "B:min"
+      },
+      {
+        "time": 13.955192743764172,
+        "chord": "G:maj"
+      },
+      {
+        "time": 16.091428571428573,
+        "chord": "A:maj"
+      },
+      {
+        "time": 18.15800453514739,
+        "chord": "E:min7"
+      },
+      {
+        "time": 20.317460317460316,
+        "chord": "B:min"
+      },
+      {
+        "time": 22.38403628117914,
+        "chord": "G:maj"
+      },
+      {
+        "time": 24.52027210884354,
+        "chord": "E:min"
+      },
+      {
+        "time": 26.63328798185941,
+        "chord": "G:maj"
+      },
+      {
+        "time": 28.792743764172336,
+        "chord": "B:min7"
+      }
+    ],
+    "bass+other": [
+      {
+        "time": 0.0,
+        "chord": "N"
+      },
+      {
+        "time": 0.023219954648526078,
+        "chord": "D:maj"
+      },
+      {
+        "time": 5.6656689342403626,
+        "chord": "E:min"
+      },
+      {
+        "time": 7.778684807256236,
+        "chord": "A:maj"
+      },
+      {
+        "time": 9.659501133786849,
+        "chord": "E:min"
+      },
+      {
+        "time": 12.027936507936507,
+        "chord": "B:min"
+      },
+      {
+        "time": 14.001632653061225,
+        "chord": "G:maj"
+      },
+      {
+        "time": 16.27718820861678,
+        "chord": "A:maj"
+      },
+      {
+        "time": 18.134784580498867,
+        "chord": "E:min"
+      },
+      {
+        "time": 20.48,
+        "chord": "B:min"
+      },
+      {
+        "time": 22.430476190476192,
+        "chord": "G:maj"
+      },
+      {
+        "time": 24.56671201814059,
+        "chord": "E:min7"
+      },
+      {
+        "time": 26.586848072562358,
+        "chord": "G:maj"
+      },
+      {
+        "time": 28.792743764172336,
+        "chord": "B:min7"
+      }
+    ],
+    "bass+vocals": [
+      {
+        "time": 0.0,
+        "chord": "N"
+      },
+      {
+        "time": 10.54185941043084,
+        "chord": "E:maj"
+      },
+      {
+        "time": 12.051156462585034,
+        "chord": "B:min"
+      },
+      {
+        "time": 14.698231292517008,
+        "chord": "G:maj"
+      },
+      {
+        "time": 16.253968253968253,
+        "chord": "A:maj"
+      },
+      {
+        "time": 18.901043083900227,
+        "chord": "E:maj"
+      },
+      {
+        "time": 20.503219954648525,
+        "chord": "B:min"
+      },
+      {
+        "time": 23.034195011337868,
+        "chord": "G:maj"
+      },
+      {
+        "time": 24.45061224489796,
+        "chord": "E:maj"
+      },
+      {
+        "time": 26.63328798185941,
+        "chord": "G:maj"
+      },
+      {
+        "time": 28.676643990929705,
+        "chord": "B:maj"
+      }
+    ],
+    "vocals+other": [
+      {
+        "time": 0.0,
+        "chord": "N"
+      },
+      {
+        "time": 0.023219954648526078,
+        "chord": "D:maj"
+      },
+      {
+        "time": 5.7817687074829935,
+        "chord": "E:min"
+      },
+      {
+        "time": 7.732244897959184,
+        "chord": "A:maj"
+      },
+      {
+        "time": 9.682721088435374,
+        "chord": "E:min7"
+      },
+      {
+        "time": 11.888616780045352,
+        "chord": "B:min"
+      },
+      {
+        "time": 14.001632653061225,
+        "chord": "G:maj"
+      },
+      {
+        "time": 16.068208616780044,
+        "chord": "A:maj"
+      },
+      {
+        "time": 18.15800453514739,
+        "chord": "E:min7"
+      },
+      {
+        "time": 20.410340136054423,
+        "chord": "B:min"
+      },
+      {
+        "time": 22.407256235827663,
+        "chord": "G:maj"
+      },
+      {
+        "time": 24.752471655328797,
+        "chord": "E:min"
+      },
+      {
+        "time": 26.795827664399095,
+        "chord": "G:maj"
+      },
+      {
+        "time": 28.885623582766442,
+        "chord": "B:min7"
+      }
+    ],
+    "bass+vocals+other": [
+      {
+        "time": 0.0,
+        "chord": "N"
+      },
+      {
+        "time": 0.023219954648526078,
+        "chord": "D:maj"
+      },
+      {
+        "time": 5.735328798185941,
+        "chord": "E:min"
+      },
+      {
+        "time": 7.778684807256236,
+        "chord": "A:maj"
+      },
+      {
+        "time": 9.7059410430839,
+        "chord": "E:min7"
+      },
+      {
+        "time": 12.004716553287983,
+        "chord": "B:min"
+      },
+      {
+        "time": 14.071292517006803,
+        "chord": "G:maj"
+      },
+      {
+        "time": 16.253968253968253,
+        "chord": "A:maj"
+      },
+      {
+        "time": 18.18122448979592,
+        "chord": "E:min7"
+      },
+      {
+        "time": 20.48,
+        "chord": "B:min"
+      },
+      {
+        "time": 22.453696145124717,
+        "chord": "G:maj"
+      },
+      {
+        "time": 24.56671201814059,
+        "chord": "E:min7"
+      },
+      {
+        "time": 26.586848072562358,
+        "chord": "G:maj"
+      },
+      {
+        "time": 28.76952380952381,
+        "chord": "B:min7"
+      }
+    ]
+  }
+}
